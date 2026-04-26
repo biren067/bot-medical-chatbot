@@ -51,3 +51,11 @@ activate
 cd ../..
 pip install -r requirements.txt
 ```
+
+## API Key
+
+```bash
+PINECODE cloud API Key.
+openai API key.
+store in .env file
+```
