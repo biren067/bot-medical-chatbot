@@ -59,3 +59,9 @@ PINECODE cloud API Key.
 openai API key.
 store in .env file
 ```
+
+## Learning and pending
+
+```bash
+Text → Embedding Model → text chunk create → Vector → Store in Vector DB
+```
